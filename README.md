@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fikadu Girma</h1>
-<h3 align="center">i'm passionate developer and love building scalable applications, solving complex problems, and contributing to open-source projects.</h3>
+<h1 align="center">Hi 👋, I'm Fikadu Girma(Thanos)</h1>
+<h3 align="center">i'm passionate Fullstack developer and love building scalable applications, solving complex problems, and contributing to open-source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fikadu-girma&label=Profile%20views&color=0e75b6&style=flat" alt="fikadu-girma" /> </p>
 
